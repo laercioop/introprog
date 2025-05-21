@@ -1,0 +1,6 @@
+id,descricao,tipo,quartos,ar_condicionado,cafe_manha,banheiro,aluguel_dia,wifi,estacionamento,avaliacao,cidade,estado,capacidade,pets_permitidos
+1,Casa aconchegante com jardim,casa,3,sim,sim,sim,250.0,sim,sim,4.8,São Paulo,SP,6,sim
+2,Quarto privativo em apartamento moderno,quarto,1,sim,não,compartilhado,120.0,sim,não,4.5,Rio de Janeiro,RJ,2,não
+3,Pousada charmosa perto da praia,pousada,5,sim,sim,sim,300.0,sim,sim,4.7,Florianópolis,SC,10,sim
+4,Albergue econômico no centro,albergue,10,não,não,compartilhado,80.0,sim,não,4.2,Salvador,BA,20,não
+5,Hotel luxuoso com vista para o mar,hotel,20,sim,sim,sim,500.0,sim,sim,4.9,Recife,PE,40,sim
