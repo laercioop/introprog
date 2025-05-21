@@ -1,0 +1,14 @@
+"Modelo","Capacidade","Consumo_GAS_km_l","Consumo_ALC_km_l","Combustivel","Preco_Diaria"
+"Renault Kwid",5,15.6,10.8,"Flex",89
+"Chevrolet Onix",5,13.9,10.3,"Flex",105
+"Ford Ka",5,13.5,10,"Flex",98
+"Hyundai Creta",5,11.6,8.7,"Flex",189
+"Jeep Renegade",5,10.8,7.6,"Flex",215
+"Nissan Kicks",5,12.1,8.5,"Flex",205
+"Chevrolet Spin",7,11,7.9,"Flex",249
+"Mercedes-Benz Sprinter",15,7,5,"Diesel",468
+"Fiat Strada",5,11.5,8,"Diesel",168
+"Toyota Hilux",5,9.8,7.2,"Diesel",285
+"Chevrolet Onix Plus",5,14.2,10,"Flex",135
+"Toyota Corolla",5,12.5,8.6,"Flex",235
+"Mercedes-Benz C180",5,9.2,6.5,"Gasolina",749
